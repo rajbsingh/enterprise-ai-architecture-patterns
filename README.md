@@ -7,7 +7,7 @@
 - [Agentic AI Architecture](agentic-ai-architecture.md)
 - [Human-in-the-Loop Pattern](human-in-the-loop-pattern.md)
 - [AI Platform Operating Model](ai-platform-operating-model.md)
-
+- [Enterprise AI Architecture Diagrams](architecture-diagrams.md)
 A practical collection of enterprise AI architecture patterns covering Generative AI, RAG, agentic AI, AI governance, cloud, data, and secure AI adoption.
 
 ---
