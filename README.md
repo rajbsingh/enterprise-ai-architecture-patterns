@@ -1,5 +1,13 @@
 # Enterprise AI Architecture Patterns
 
+## Architecture Documents
+
+- [Generative AI Reference Architecture](genai-reference-architecture.md)
+- [RAG Architecture Pattern](rag-architecture.md)
+- [Agentic AI Architecture](agentic-ai-architecture.md)
+- [Human-in-the-Loop Pattern](human-in-the-loop-pattern.md)
+- [AI Platform Operating Model](ai-platform-operating-model.md)
+
 A practical collection of enterprise AI architecture patterns covering Generative AI, RAG, agentic AI, AI governance, cloud, data, and secure AI adoption.
 
 ---
